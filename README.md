@@ -1,9 +1,9 @@
 # ATInternet-API
 
-JS -> ok
+JS: ✅ 
 
-PHP -> ok
+PHP: ✅ 
 
-Python -> ok
+Python: ✅ 
 
-R -> todo
+R: todo
